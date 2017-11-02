@@ -1,0 +1,11 @@
+C:\Users\admin\codefellows\401\MultiArray\MultiArray\MultiArray\bin\Debug\netcoreapp2.0\MultiArray.deps.json
+C:\Users\admin\codefellows\401\MultiArray\MultiArray\MultiArray\bin\Debug\netcoreapp2.0\MultiArray.runtimeconfig.json
+C:\Users\admin\codefellows\401\MultiArray\MultiArray\MultiArray\bin\Debug\netcoreapp2.0\MultiArray.runtimeconfig.dev.json
+C:\Users\admin\codefellows\401\MultiArray\MultiArray\MultiArray\bin\Debug\netcoreapp2.0\MultiArray.dll
+C:\Users\admin\codefellows\401\MultiArray\MultiArray\MultiArray\bin\Debug\netcoreapp2.0\MultiArray.pdb
+C:\Users\admin\codefellows\401\MultiArray\MultiArray\MultiArray\obj\Debug\netcoreapp2.0\MultiArray.csprojResolveAssemblyReference.cache
+C:\Users\admin\codefellows\401\MultiArray\MultiArray\MultiArray\obj\Debug\netcoreapp2.0\MultiArray.csproj.CoreCompileInputs.cache
+C:\Users\admin\codefellows\401\MultiArray\MultiArray\MultiArray\obj\Debug\netcoreapp2.0\MultiArray.AssemblyInfoInputs.cache
+C:\Users\admin\codefellows\401\MultiArray\MultiArray\MultiArray\obj\Debug\netcoreapp2.0\MultiArray.AssemblyInfo.cs
+C:\Users\admin\codefellows\401\MultiArray\MultiArray\MultiArray\obj\Debug\netcoreapp2.0\MultiArray.dll
+C:\Users\admin\codefellows\401\MultiArray\MultiArray\MultiArray\obj\Debug\netcoreapp2.0\MultiArray.pdb
